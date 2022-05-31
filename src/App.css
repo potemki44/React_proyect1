@@ -45,9 +45,10 @@ img {
   background-color: blueviolet;
   border-radius: 30px;
   width: 10%;
-  
-  position: fixed;
-right: 250px;
-top:250px
+  position:fixed;
+  right: 490px;
+  top:270px
+
+
 
 }
