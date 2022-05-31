@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+
+
+
+.App {
+  border: 3px black solid;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.QuoteBox {
+
+
+  width: 450px;
+  background-color: #d6dbe3;
+  padding: 28px;
+  border-radius: 8px;
+}
+
+span {
+  color: white;
+  overflow: auto;
+  object-fit: contain;
+  margin-right: 140px;
+  margin-top: 25px;
+}
+
+img {
+  height: 15%;
+  position: absolute;
+  top: 90px;
+  border-radius: 50px;
+}
+
+.btn {
+  background-color: blueviolet;
+  border-radius: 30px;
+  width: 10%;
+  
+  position: fixed;
+right: 250px;
+top:250px
+
+}
